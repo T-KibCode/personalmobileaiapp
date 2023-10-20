@@ -33,6 +33,10 @@ WCAG Ratio: Fail (1.94:1)
 
 - **Terms and Conditions:** Includes a section for legal wording within the Terms and Conditions to protect users and define the responsibilities of the service.
 
+## Initial Frontend Wireframes
+
+![https://github.com/T-KibCode/personalmobileaiapp/blob/main/ScreenshotsForReadmePlan/Screenshot%202023-10-19%20at%2020.55.04.png](screenshot1)
+
 ## Getting Started
 
 ### Prerequisites
