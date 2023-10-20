@@ -35,7 +35,7 @@ WCAG Ratio: Fail (1.94:1)
 
 ## Initial Frontend Wireframes
 
-![https://github.com/T-KibCode/personalmobileaiapp/blob/main/ScreenshotsForReadmePlan/Screenshot%202023-10-19%20at%2020.55.04.png](screenshot1)
+![ScreenshotsForReadmePlan/Screenshot 2023-10-19 at 20.55.04.png](screenshot1)
 
 ## Getting Started
 
