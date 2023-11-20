@@ -52,3 +52,84 @@ Before running the application, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/T-KibCode/personalmobileaiapp/
+
+
+## Initial planning phase of main menu headings.
+
+Homepage:
+Introduction Section:
+
+- Briefly introduce the purpose of your website.
+- Highlight key features: affiliate links, latest news, and strategy suggestions.
+- Affiliate Links Section:
+
+- Prominently display affiliate links to various e-stores.
+- Categorize links by store or product type.
+- Use clear calls-to-action to encourage users to explore deals.
+- Latest News Section:
+
+- Display the latest news related to the game (Yu-Gi-Oh).
+- Include headlines, brief summaries, and publication dates.
+- Link to full articles or news pages.
+- Featured Deck Section:
+
+- Showcase the current top-performing decks.
+- Provide brief descriptions and images.
+- Include links to more detailed information.
+- Chatbot Integration:
+
+- Integrate a chatbot on the homepage.
+- Allow users to ask questions or seek advice.
+- Mention the chatbot's ability to help with strategy suggestions.
+- News Section:
+- Categories:
+
+- Divide news articles into categories (e.g., deck updates, tournament results, rule changes).
+- Allow users to filter news based on their interests.
+- Article Pages:
+
+- Create individual pages for each news article.
+- Include images, detailed information, and related links.
+- Comment Section:
+
+- Allow users to comment on articles.
+- Encourage discussions and community engagement.
+- Deck Strategy Section:
+- Top Decks:
+
+- Provide detailed information on the current top decks.
+- Include card lists, strategies, and strengths/weaknesses.
+- Counter Strategies:
+
+- Devote a section to counter strategies for top decks.
+- Use the chatbot to help users devise personalized counter strategies.
+- Deck Building Tips:
+
+- Offer guidance on building effective decks.
+- Include articles on popular archetypes and combos.
+- Chatbot Section:
+- Chat Interface:
+
+- Create a user-friendly chat interface.
+- Allow users to input questions about deck strategies, card choices, etc.
+- Strategy Assistance:
+
+- Program the chatbot to provide advice on countering specific decks.
+- Use AI to analyze user input and offer tailored suggestions.
+- Deck Recommendation:
+
+- Allow users to ask for deck recommendations based on their playstyle.
+- Provide links to deck profiles or articles.
+- Footer:
+- Navigation Links:
+
+- Include links to essential pages (Home, News, Decks, Chatbot, Contact).
+- Display social media links for additional engagement.
+- Contact Information:
+
+- Provide a contact form or email for user inquiries.
+- Mention any social media channels for communication.
+- Privacy Policy and Disclaimers:
+
+- Include links to your privacy policy and any necessary disclaimers.
+
